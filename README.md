@@ -1,2 +1,2 @@
 # Fractal
-Making simple fractals with python 
+Making a simple fractal design in python with the help of the pygame library. 
